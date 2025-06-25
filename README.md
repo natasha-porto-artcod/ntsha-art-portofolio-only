@@ -1,48 +1,48 @@
 # 🌸 Natasha – Art & Code Portfolio 🎨💻
 
-Selamat datang di portofolio interaktifku!  
-Website ini berisi kumpulan karya seni digital 🎨, improvisasi musik 🎶, dan eksperimen codingku 💻.
+Welcome to my interactive portfolio!  
+This website showcases my collection of digital artworks 🎨, musical improvisations 🎶, and coding experiments 💻.
 
 ---
 
-## ✨ Apa Saja yang Ada di Sini?
+## ✨ What’s Inside?
 
-🔹 **Galeri Ilustrasi:**  
-Kumpulan karya Tradisonal Art yang pernah aku buat, dari komisi hingga eksperimen pribadi.
+🔹 **Illustration Gallery:**  
+A collection of traditional and digital artworks I’ve created — from commissions to personal explorations.
 
-🔹 **Musik & Improvisasi:**  
-Rekaman dari penampilan di kafe atau karya musik digital ku 🎧
+🔹 **Music & Improvisation:**  
+Recordings from live café performances and my digital music creations 🎧
 
 🔹 **AI Assistant – Natasha 🤖**  
-Chatbot lucu yang bisa menjawab pertanyaan dasar tentang aku & websitenya.
+A fun little chatbot that can answer basic questions about me and this website.
 
 ---
 
-## 🔧 Teknologi yang Digunakan
-- HTML + CSS (tema pink pastel)
-- JavaScript (untuk interaksi & chatbot)
-- GitHub Pages (untuk hosting)
+## 🔧 Technologies Used
+- HTML + CSS (pink pastel theme)
+- JavaScript (for interaction & chatbot)
+- GitHub Pages (for hosting)
 
 ---
 
-## 🛠 Cara Menjalankan di Lokal
+## 🛠 How to Run Locally
 
-1. Clone repo ini
-2. Buka `index.html` di browser
-3. Upload ke GitHub Pages untuk live version!
+1. Clone this repository
+2. Open `index.html` in your browser
+3. Upload to GitHub Pages for the live version!
 
 ---
 
-## 🌐 Coba Langsung
-> Klik link berikut untuk membuka versi online:  
+## 🌐 Try It Live
+> Click the link below to visit the live version:  
 > 🔗 [tasyausername.github.io/nthsha-porto-artcod](#)
 
 ---
 
-## 💌 Hubungi Aku
-Kalau mau kerja sama, komisi ilustrasi, atau ngobrol soal AI dan seni:  
-📧 Email: tasyacns255@gmail.com
-📷 Instagram: [nwshine_](https://instagram//nwshine_)  
+## 💌 Contact Me
+For art commissions, collaborations, or to talk about AI & creativity:  
+📧 Email: tasyacns255@gmail.com  
+📷 Instagram: [@nwshine_](https://instagram.com/nwshine_)  
 🎧 SoundCloud: [@ntsha-sound](https://soundcloud.com)
 
 ---
