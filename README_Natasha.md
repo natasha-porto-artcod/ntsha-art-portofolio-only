@@ -8,7 +8,7 @@ Website ini berisi kumpulan karya seni digital 🎨, improvisasi musik 🎶, dan
 ## ✨ Apa Saja yang Ada di Sini?
 
 🔹 **Galeri Ilustrasi:**  
-Kumpulan karya digital yang pernah aku buat, dari komisi hingga eksperimen pribadi.
+Kumpulan karya Tradisonal Art yang pernah aku buat, dari komisi hingga eksperimen pribadi.
 
 🔹 **Musik & Improvisasi:**  
 Rekaman dari penampilan di kafe atau karya musik digital ku 🎧
@@ -35,16 +35,16 @@ Chatbot lucu yang bisa menjawab pertanyaan dasar tentang aku & websitenya.
 
 ## 🌐 Coba Langsung
 > Klik link berikut untuk membuka versi online:  
-> 🔗 [tasyausername.github.io/tasya-art-portfolio](#) *(ganti dengan linkmu ya!)*
+> 🔗 [tasyausername.github.io/nthsha-porto-artcod](#)
 
 ---
 
 ## 💌 Hubungi Aku
 Kalau mau kerja sama, komisi ilustrasi, atau ngobrol soal AI dan seni:  
-📧 Email: tasya@email.com  
-📷 Instagram: [@tasya.arts](https://instagram.com)  
-🎧 SoundCloud: [@tasya-sound](https://soundcloud.com)
+📧 Email: tasyacns255@gmail.com
+📷 Instagram: [nwshine_](https://instagram//nwshine_)  
+🎧 SoundCloud: [@ntsha-sound](https://soundcloud.com)
 
 ---
 
-> Made with 💖 by Tasya – powered by imagination, art, and code ✨
+> Made with 💖 by Natasha – powered by imagination, art, and code ✨
